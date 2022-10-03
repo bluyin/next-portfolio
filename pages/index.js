@@ -43,7 +43,7 @@ export default function Home() {
                     <div className="text-center p-10">
                         <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">Juan de Miguel</h2>
                         <h3 className="text-2xl py-2 md:text-3xl dark:text-white">Developer and designer.</h3>
-                        <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Freelancer providing services for programming and design content needs.Join me down below and let's get cracking !</p>
+                        <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Freelancer providing services for programming and design content needs.Join me down below and let&apos;s get cracking !</p>
                     </div>
                     <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
                         <a href="https://www.linkedin.com/in/juan-de-miguel-326676175/">
@@ -64,7 +64,7 @@ export default function Home() {
                     <div>
                         <h3 className="text-3xl py-1 dark:text-white">Services I offer</h3>
                         <p className="text-md py-2 leading-8 text-gray-800 dark:text-white">
-                            Since the begining of my journey as a freelance developer, i've done remote work for
+                            Since the begining of my journey as a freelance developer, i&apos;ve done remote work for
                             <span className="text-teal-500"> agencies </span>
                             consulted for <span className="text-teal-500"> startups </span>
                             and collaborated with talented people to create digital products fot both business and consumer use.
@@ -105,7 +105,7 @@ export default function Home() {
                     <div>
                         <h3 className="text-3xl py-1 dark:text-white">Portfolio</h3>
                         <p className="text-md py-2 leading-8 text-gray-800 dark:text-white">
-                            Since the begining of my journey as a freelance developer, i've done remote work for
+                            Since the begining of my journey as a freelance developer, i&apos;ve done remote work for
                             <span className="text-teal-500"> agencies </span>
                             consulted for <span className="text-teal-500"> startups </span>
                             and collaborated with talented people to create digital products fot both business and consumer use.
