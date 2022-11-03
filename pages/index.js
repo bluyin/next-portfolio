@@ -28,7 +28,7 @@ export default function Home() {
             <main className="bg-white px-10 md:px-20 lg:px-4 dark:bg-gray-900">
                 <section className=" min-h-screen">
                     <nav className="py-10 mb-12 flex justify-between">
-                        <h1 className="text-xl font-burtons dark:text-white">developedbyed</h1>
+                        <h1 className="text-xl font-burtons dark:text-white">developedbybluyin</h1>
                         <ul className="flex items-center">
                             <li>
                                 <BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className="cursor-pointer text-2xl dark:text-white" />
@@ -42,8 +42,8 @@ export default function Home() {
                     </nav>
                     <div className="text-center p-10">
                         <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">Juan de Miguel</h2>
-                        <h3 className="text-2xl py-2 md:text-3xl dark:text-white">Developer and designer.</h3>
-                        <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Freelancer providing services for programming and design content needs.Join me down below and let&apos;s get cracking !</p>
+                        <h3 className="text-2xl py-2 md:text-3xl dark:text-white">Developer.</h3>
+                        <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-white">Freelancer providing services for programming and design content needs. Join me down below and let&apos;s get cracking!</p>
                     </div>
                     <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
                         <a href="https://www.linkedin.com/in/juan-de-miguel-326676175/">
