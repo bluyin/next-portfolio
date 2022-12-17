@@ -7,7 +7,7 @@
 #### powered by Juan de Miguel Alonso
 
 **Objetivos :**
-_Texto en cursiva_
+_creative portfolio_
 
 -   Estetica sencilla y elegante
 -   dark mode
@@ -18,3 +18,13 @@ _Texto en cursiva_
 1. Biography
 2. Services
 3. Portfolio
+
+> Para mas información...
+
+–--
+
+:boom: :zzz: :rat: :tomato: :bus: :computer:
+
+[NEXT.JS](https://nextjs.org)
+
+==Juan de Miguel Alonso==
